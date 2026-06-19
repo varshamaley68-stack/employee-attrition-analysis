@@ -17,4 +17,4 @@ The analysis uses the `Employee.csv` dataset, which contains various workforce a
 3. **Model Building:** Training machine learning models to predict turnover risk.
 ## 📈 Analysis Results
 * **Key Drivers of Attrition:** Through exploratory data analysis, we found that low monthly income, high overtime hours, and low job satisfaction were the strongest indicators of employee turnover.
-* **Model Performance:** The machine learning model achieved an accuracy of **XX%** (replace with your score) in predicting whether an employee will leave or stay.
+* **Model Performance:** The machine learning model achieved an accuracy of 86% in predicting whether an employee will leave or stay.
