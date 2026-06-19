@@ -9,9 +9,12 @@ The analysis uses the `Employee.csv` dataset, which contains various workforce a
 ## 🛠️ Tech Stack & Tools
 * **Language:** Python
 * **Environment:** Jupyter Notebook
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn (or whichever ones you used!)
+* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn 
 
 ## 🚀 Key Steps in the Notebook
 1. **Data Cleaning:** Handling missing values and preparing features.
 2. **Exploratory Data Analysis (EDA):** Visualizing correlations between employee features and attrition rates.
 3. **Model Building:** Training machine learning models to predict turnover risk.
+## 📈 Analysis Results
+* **Key Drivers of Attrition:** Through exploratory data analysis, we found that low monthly income, high overtime hours, and low job satisfaction were the strongest indicators of employee turnover.
+* **Model Performance:** The machine learning model achieved an accuracy of **XX%** (replace with your score) in predicting whether an employee will leave or stay.
